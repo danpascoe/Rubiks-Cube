@@ -1,15 +1,9 @@
 Rubik's Cube Coding Exercise
 Daniel Pascoe
 
-My submission contains both a compiled version of the application and the solution. 
+My submission contains both a compiled version of the application and the solution. You can find the compiled application here: /Application/RubiksCube.exe
 
 I built the project using Visual Studio 2022 Community edition using C# .NET 7.0.
-
-
-
-
-
-
 
 Once running, the application requires an input from the user.
 
@@ -24,7 +18,7 @@ Add an apostrophe (') after any of the above moves in order to make the rotation
 
 END             Stops the cube
 HELP            Displays the help text
-RESET           Resets the cube to it's original state
+RESET           Resets the cube to its original state
 HISTORY         Prints your previous commands
 MULTI           Puts the input into "multi-mode"
-		This allows you to enter multiple commands, seperated by a space
+		This allows you to enter multiple commands, separated by a space
